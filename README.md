@@ -8,6 +8,7 @@ https://www.cnblogs.com/kylinlin/p/5184592.html
 启动django pycharm run或者debug
 
 启动服务 manage.py runserver
+         cmd模式下 python manage.py runserver 127.0.0.1:8090
 
 
 ### 项目内容
